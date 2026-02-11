@@ -112,6 +112,8 @@
 #     print("win cake ")
 
 
+
+
 # num1 = int(input("Please tell your first number:-"))
 # num2 = int(input("please tell your Second number:- "))
 
@@ -237,6 +239,8 @@
   
 
 
+
+
 # n = int(input("Which number factor you want ? : - "))
 
 # for i in range(1,n+1):
@@ -254,6 +258,9 @@
 #     print("your number is perfect")
 # else:
 #     print("not a perfect number")       
+
+
+
 
 
 # n = int(input("Check your number prime or not :-"))
