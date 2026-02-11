@@ -241,7 +241,7 @@
 
 # for i in range(1,n):
 #     if n%i ==0:
-#         sum += i
+#         sum = sum + i
 
 # if sum == n:
 #     print("your number is perfect")
@@ -714,10 +714,39 @@
 
 
 
+# for i in range(1,11):
+#     if i%2 ==0:9
+#         print(i)
 
 
 
+# help(list)
 
 
+# l = [12,34,555,665,45,34,55,77,994,45]
+
+# largest =l[0]
+# index = 0
+
+# for i in range(len(l)):
+#     if l[i] > largest:
+#         largest = l[i]
+#         index = i
+# print(f"your number is {largest} at index {index}")             
 
 
+# l = [12,16,13,19,17]
+
+# largest = l[0]
+# sec_largest = l[0]
+
+
+# for i in l:
+#     if i > largest:
+#         sec_largest = largest
+#         largest = i
+
+#     elif i > sec_largest:
+#         sec_largest = i
+
+# print(sec_largest, largest)
